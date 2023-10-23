@@ -1,5 +1,8 @@
 # AHAM Frontend Developer Practical : Fund Management System
 
+Client - Vue.js, Bootstrap CSS  
+Server - Node.js, Express
+
 ## Setup Guide
 
 Clone repo to your local machine
